@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Prathamesh Mhalsekar 
-- 👀 I’m interested in Technology, AI,and many tech related things
+- 👀 I’m interested in Software Technology, AI,and many tech related things 
 - 🌱 I’m currently learning Data Science 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
